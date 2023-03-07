@@ -493,8 +493,10 @@ for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@
 */ -->
      </div>
   </div>
+  
 <hr>
 <button id="demo" class="downloadtable btn btn-primary" onclick="downloadtable()"> Download Id Card</button>
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
@@ -512,7 +514,7 @@ for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@
             .then(function (dataUrl) {
                 var img = new Image();
                 img.src = dataUrl;
-                downloadURI(dataUrl, "staff-id-card.png")
+                downloadURI(dataUrl, "ccbd-id-card.png")
             })
             .catch(function (error) {
                 console.error('oops, something went wrong', error);

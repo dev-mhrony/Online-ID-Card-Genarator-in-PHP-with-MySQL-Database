@@ -6,12 +6,11 @@
 for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
 * Visit My Website : developerrony.com
 */ -->
-
 <?php
 $servername = "localhost";
 $username = "root";
 $password = "";
-$database = "id_card";
+$database = "ccbd_id_card_genarator";
 
 // Create a connection
 $conn = mysqli_connect($servername, $username, $password, $database);
