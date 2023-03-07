@@ -1,5 +1,9 @@
 # student-Employee-ID-Card-Generator-in-php
 
+## Database Name:
+
+- ccbd_id_card_genarator
+
 ## Genarated ID Preview
 
 ![staff-id-card (4)](https://user-images.githubusercontent.com/78216965/223390479-f3333371-0a9e-4919-b951-33af52a230d7.png)
